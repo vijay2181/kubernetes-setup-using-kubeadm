@@ -35,6 +35,8 @@ Setup of Single Node control Plane using KUBEADM:
 
 
 
+- switch to root user in all 3 nodes
+  
 - after installation is setup, then use below document to configure kubeadm on machines
 
   ```
